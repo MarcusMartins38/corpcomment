@@ -1,7 +1,7 @@
 import Container from "./layout/Container";
 import Footer from "./layout/Footer";
 import HashtagList from "./hashtag/HashtagList";
-import FeedbackItemsContextProvider from "./context/FeedbackItemsContextProvider";
+import FeedbackItemsContextProvider from "../context/FeedbackItemsContextProvider";
 
 function App() {
   return (

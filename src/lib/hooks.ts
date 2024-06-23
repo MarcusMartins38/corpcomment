@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from "react";
-import { FeedbackItemsContext } from "../components/context/FeedbackItemsContextProvider";
+import { FeedbackItemsContext } from "../context/FeedbackItemsContextProvider";
 import { TFeedbackItem } from "./types";
 
 export function useFeedbackItemsContext() {
